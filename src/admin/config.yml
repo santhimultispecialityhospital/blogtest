@@ -3,7 +3,7 @@ backend:
   repo: santhimultispecialityhospital/blogtest
   branch: main
   site_domain: blogtest-6kc.pages.dev/
-
+media_folder: "/assets/blog"
 public_folder: "/assets/blog"
 collections:
   - name: "blog"
