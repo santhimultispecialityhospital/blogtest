@@ -1,16 +1,20 @@
 ---
 title: My Third Article
+description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae
+  delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio
+  aliquam?
 author: Kevin Powell
 date: 2021-05-28
-tags: ['post', 'featured']
+tags:
+  - post
+  - featured
 image: /assets/blog/article-3.jpg
 imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum facilisis leo vel fringilla. Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Ut sem nulla pharetra diam sit amet nisl. Est velit egestas dui id ornare. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada bibendum. Ut sem viverra aliquet eget. Semper feugiat nibh sed pulvinar proin gravida hendrerit lectus a. At augue eget arcu dictum. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Amet aliquam id diam maecenas ultricies mi.
 
-Urna porttitor rhoncus dolor purus non enim praesent elementum facilisis. Molestie nunc non blandit massa enim nec dui nunc mattis. Sem nulla pharetra diam sit amet nisl suscipit. Id eu nisl nunc mi. Congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar. Sit amet purus gravida quis blandit. Egestas sed sed risus pretium quam vulputate dignissim suspendisse. Magna fringilla urna porttitor rhoncus dolor. Neque ornare aenean euismod elementum nisi quis eleifend quam adipiscing. Ut eu sem integer vitae. Orci phasellus egestas tellus rutrum tellus. Cras semper auctor neque vitae tempus quam pellentesque nec nam. Dignissim sodales ut eu sem integer vitae justo. Tempus imperdiet nulla malesuada pellentesque elit eget. Lectus urna duis convallis convallis tellus id interdum velit.
+Lorem ipsum is just filler text, if you don't understand it. thats completely fine. You don't meant to understand it, mf.
 
 Fringilla urna porttitor rhoncus dolor purus. Sagittis nisl rhoncus mattis rhoncus urna neque viverra justo. Etiam non quam lacus suspendisse faucibus interdum. Eget dolor morbi non arcu risus quis varius quam. Senectus et netus et malesuada. Erat pellentesque adipiscing commodo elit at. Diam sit amet nisl suscipit. Tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin libero. Lectus proin nibh nisl condimentum id venenatis. Consequat semper viverra nam libero. Cursus turpis massa tincidunt dui ut ornare. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla. Purus sit amet luctus venenatis lectus magna fringilla urna. Eget gravida cum sociis natoque penatibus. Tellus elementum sagittis vitae et leo duis ut diam quam. Scelerisque felis imperdiet proin fermentum leo vel orci. Eu facilisis sed odio morbi quis commodo. Sed risus ultricies tristique nulla aliquet.
 
